@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
     const int n=21;
     int st[n][n]; //ìàòðèöà
     int i,j; //ñòàíä. ñ÷åò÷èêè
